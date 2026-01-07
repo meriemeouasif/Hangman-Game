@@ -1,7 +1,7 @@
 # Nom du Jeu 🎮
 *Ex: Hangman Game*
 
-![Logo](images/hangman-0.svg)  <!-- tu peux changer l'image principale -->
+![Logo](images/hangman-0.png)  <!-- tu peux changer l'image principale -->
 
 ## Description
 Ceci est un jeu **[nom du jeu]** développé avec **JavaScript, HTML et CSS**.  
@@ -37,4 +37,4 @@ Si tu veux contribuer :
 4. Push et crée un Pull Request  
 
 ## Auteur
-**Merieme Ouasif** – [GitHub](https://github.com/tonUsername)
+**Merieme Ouasif** – [GitHub](https://github.com/meriemeouasif/Hangman-Game.git)
